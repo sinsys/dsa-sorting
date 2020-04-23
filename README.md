@@ -4,6 +4,8 @@
 
 ### 1. Understanding merge sort  
 
+  > [understand-merge-sort.js](../master/drills/understand-merge-sort.js)  
+  
 Given the following list of numbers  
 `21, 1, 26, 45, 29, 28, 2, 9, 16, 49, 39, 27, 43, 34, 46, 40`
 
