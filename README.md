@@ -51,6 +51,8 @@ Write a function qSort that sorts a dataset using the quicksort algorithm. The d
 
 ### 4. Implementing merge sort  
 
+  > [implementing-merge-sort.js](../master/drills/implementing-merge-sort.js)  
+
 Write a function mSort that sorts the dataset above using the merge sort algorithm.
 
 ### 5. Sorting a linked list using merge sort  
