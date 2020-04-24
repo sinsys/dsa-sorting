@@ -57,6 +57,8 @@ Write a function mSort that sorts the dataset above using the merge sort algorit
 
 ### 5. Sorting a linked list using merge sort  
 
+  > [linked-list-sort.js](../master/drills/linked-list-sort.js)  
+
 Given a Linked List, sort the linked list using merge sort. You will need your linked list class from previous lesson to create the list and use all of its supplemental functions to solve this problem.
 
 ### 6. Bucket sort  
