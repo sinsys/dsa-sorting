@@ -38,9 +38,9 @@ Given the following list of numbers
   2. Given the following list of numbers 14, 17, 13, 15, 19, 10, 3, 16, 9, 12 show the resulting list after the second partitioning according to the quicksort algorithm.
 
   - When using the last item on the list as a pivot  
-  > * `[3,9,10,12 (pivot), 19,14,17,16,13, (15)]`  
+  > `[3,9,10,12 (pivot), 19,14,17,16,13, (15)]`  
   - When using the first item on the list as a pivot  
-  > * [(14),13,10,3,9,12, (pivot), 15,16,19,17]`  
+  > `[(14),13,10,3,9,12, (pivot), 15,16,19,17]`  
 
 ### 3. Implementing quicksort  
 
@@ -63,6 +63,8 @@ Given a Linked List, sort the linked list using merge sort. You will need your l
 
 ### 6. Bucket sort  
 
+  > [bucket-sort.js](../master/drills/bucket-sort.js)  
+  
 Write an `O(n)` algorithm to sort an array of integers, where you know in advance what the lowest and highest values are. You can't use `arr.splice()`, `shift()` or `unshift()` for this exercise.
 
 ### 7. Sort in place  
