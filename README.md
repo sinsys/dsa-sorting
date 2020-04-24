@@ -75,4 +75,6 @@ Write an algorithm to shuffle an array into a random order in place (i.e., witho
 
 ### 8. Sorting books  
 
+  > [sorting-books.js](../master/drills/sorting-books.js)  
+  
 Imagine that I gave you 20 books to sort in alphabetical order. Express this as an algorithm and then implement your algorithm.
