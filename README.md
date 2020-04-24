@@ -64,10 +64,12 @@ Given a Linked List, sort the linked list using merge sort. You will need your l
 ### 6. Bucket sort  
 
   > [bucket-sort.js](../master/drills/bucket-sort.js)  
-  
+
 Write an `O(n)` algorithm to sort an array of integers, where you know in advance what the lowest and highest values are. You can't use `arr.splice()`, `shift()` or `unshift()` for this exercise.
 
 ### 7. Sort in place  
+
+  > [sort-in-place.js](../master/drills/sort-in-place.js)  
 
 Write an algorithm to shuffle an array into a random order in place (i.e., without creating a new array).
 
